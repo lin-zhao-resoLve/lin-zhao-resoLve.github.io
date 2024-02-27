@@ -1,1 +1,1 @@
-# lin-zhao-resoLve.github.io
+The source code from Jon Barron's public academic website: https://jonbarron.info/.
