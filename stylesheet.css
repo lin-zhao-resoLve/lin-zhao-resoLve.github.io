@@ -205,7 +205,9 @@ h2 {
 .visitor-map {
   display: flex;
   justify-content: center;
+  width: 520px;
   max-width: 100%;
+  margin: 0 auto;
   overflow: hidden;
 }
 
@@ -213,6 +215,12 @@ h2 {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+@media (max-width: 600px) {
+  .visitor-map {
+    width: 100%;
+  }
 }
 
 .one {
