@@ -197,6 +197,24 @@ h2 {
   line-height: 1.45;
 }
 
+.template-credit {
+  margin: 24px 0 8px;
+  text-align: center;
+}
+
+.visitor-map {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.visitor-map img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .one {
   width: 160px;
   height: 160px;
