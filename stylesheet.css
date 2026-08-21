@@ -190,6 +190,13 @@ h2 {
   font-size: 32px;
 }
 
+.internship-search {
+  margin: 12px 0;
+  color: #c62828;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
 .one {
   width: 160px;
   height: 160px;
